@@ -1,0 +1,28 @@
+name: emijel-rc
+favicon: null
+layout_spectrum: 0.6952655238565058
+typography_spectrum: 0.39374355878680944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2836905815638602
+  lightness: 0.789263355312869
+  saturation: 0.4514291803352535
+  rhythmicContrast: 0.24790278845466673
+purpose: []
