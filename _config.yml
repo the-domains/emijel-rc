@@ -1,7 +1,7 @@
 name: emijel-rc
 favicon: null
-layout_spectrum: 0.6952655238565058
-typography_spectrum: 0.39374355878680944
+layout_spectrum: 1
+typography_spectrum: 0.15231
 title: emijel rc
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.2836905815638602
-  lightness: 0.789263355312869
-  saturation: 0.4514291803352535
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.24790278845466673
 purpose: []
