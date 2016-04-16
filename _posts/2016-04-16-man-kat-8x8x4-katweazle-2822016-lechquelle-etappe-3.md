@@ -1,26 +1,26 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: MAN KAT 8x8x4 KATweazle - 28.2.2016 - Lechquelle Etappe 3
-datePublished: '2016-04-16T18:54:04.456Z'
-dateModified: '2016-04-16T18:53:43.648Z'
-title: ''
+description: MAN KAT 8x8x4 KATweazle - 28.2.2016 - Lechquelle Etappe 3 - Sand
+datePublished: '2016-04-16T21:53:03.258Z'
+dateModified: '2016-04-16T21:52:38.105Z'
+title: MAN Sand (Post)
 author: []
+sourcePath: _posts/2016-04-16-man-kat-8x8x4-katweazle-2822016-lechquelle-etappe-3.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-man-kat-8x8x4-katweazle-2822016-lechquelle-etappe-3.md
-published: true
 url: man-kat-8x8x4-katweazle-2822016-lechquelle-etappe-3/index.html
 _type: Article
 
 ---
-MAN KAT 8x8x4 KATweazle - 28.2.2016 - Lechquelle Etappe 3
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4114d72e-7d00-442f-92df-4dd904cd998c.jpg)
+MAN KAT 8x8x4 KATweazle - 28.2.2016 - Lechquelle Etappe 3 - Sand
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3849616003fba964db8e802f069a0e742387c077.jpg)
