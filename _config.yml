@@ -2,6 +2,7 @@ name: emijel-rc
 favicon: null
 layout_spectrum: 0.6952655238565058
 typography_spectrum: 0.39374355878680944
+title: emijel rc
 cta:
   domain: null
   bucket: null
