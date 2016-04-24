@@ -3,19 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: Kleine Tour mit KAT und High-Lift
-datePublished: '2016-04-16T22:29:45.149Z'
-dateModified: '2016-04-16T22:29:42.937Z'
-title: KATweazle am Galgenbach am 16.4.2016
-author: []
+description: 'Der MAN präsentiert sich auch gern am Galgenbach. Naß ist nicht sein Element, aber er scheut es nicht unbedingt. Es juckt ihn einfach in den Fingern dort zu lauschen. Dort wo das Wasser pritschelt und spritzt. Er kann nicht schwimmen, aber das will er auch gar nicht. Zu groß ist sein Meter für die unbändigen Fluten des Baches.'
+datePublished: '2016-04-24T20:36:01.243Z'
+dateModified: '2016-04-24T20:35:39.014Z'
+title: Sprung rein
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 sourcePath: _posts/2016-04-16-katweazle-am-galgenbach-am-1642016.md
 published: true
 url: katweazle-am-galgenbach-am-1642016/index.html
