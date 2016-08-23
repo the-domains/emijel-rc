@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Subaru Brat - 13.2.2016 - Greenwood - Front
-datePublished: '2016-04-16T21:42:35.212Z'
-dateModified: '2016-04-16T21:42:30.363Z'
-title: Subaru in Greenwood 13.2.2016
-author: []
+description: "Subaru Brat - 13.2.2016 - Greenwood - Front (Publ) sdfg sdfg sdfg sdfg sdfg sdfg sdfg sdfg sdfg sdfg sdfg xetxet xet xet xet xet xet xet xet xet xet xet xet xet xet xet xet xet\_"
+datePublished: '2016-08-23T22:39:17.762Z'
+dateModified: '2016-08-23T22:39:17.256Z'
+title: Subaru (Source Title)
+author:
+  - name: Robert (Author)
+    url: ''
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 sourcePath: _posts/2016-04-16-subaru-title.md
-published: true
 url: subaru-title/index.html
 _type: Article
 
