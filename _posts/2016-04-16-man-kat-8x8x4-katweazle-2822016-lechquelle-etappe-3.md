@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: MAN KAT 8x8x4 KATweazle - 28.2.2016 - Lechquelle Etappe 3 - Sand
-datePublished: '2016-04-16T21:53:03.258Z'
-dateModified: '2016-04-16T21:52:38.105Z'
-title: MAN Sand (Post)
+datePublished: '2016-08-23T22:19:04.211Z'
+dateModified: '2016-04-16T21:53:09.356Z'
+title: MAN beim Sandspielen
 author: []
 sourcePath: _posts/2016-04-16-man-kat-8x8x4-katweazle-2822016-lechquelle-etappe-3.md
-published: true
 authors: []
 publisher:
   name: null
