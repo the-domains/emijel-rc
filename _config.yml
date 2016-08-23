@@ -19,7 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: emijel rc
+author:
+  name: Robert Regler
+  email: regler@gmx.de
+name: emijel RC
 cta:
   domain: null
   bucket: null
