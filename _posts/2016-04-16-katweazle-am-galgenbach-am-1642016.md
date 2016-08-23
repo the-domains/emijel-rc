@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-23T22:38:59.139Z'
+datePublished: '2016-08-23T22:57:31.464Z'
 sourcePath: _posts/2016-04-16-katweazle-am-galgenbach-am-1642016.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
   - name: Robert Regler
     url: ''
 via: {}
-dateModified: '2016-08-23T22:38:58.568Z'
+dateModified: '2016-08-23T22:57:30.581Z'
 title: Sprung rein
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ inLanguage: null
 inNav: true
 starred: false
 url: katweazle-am-galgenbach-am-1642016/index.html
-_type: Article
+_type: WebPage
 
 ---
 Der MAN präsentiert sich auch gern am Galgenbach. Naß ist nicht sein Element, aber er scheut es nicht unbedingt. Es juckt ihn einfach in den Fingern dort zu lauschen. Dort wo das Wasser pritschelt und spritzt. Er kann nicht schwimmen, aber das will er auch gar nicht. Zu groß ist sein Meter für die unbändigen Fluten des Baches.
