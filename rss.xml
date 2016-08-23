@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[emijel rc]]></title>
-        <description><![CDATA[emijel rc]]></description>
+        <title><![CDATA[emijel RC]]></title>
+        <description><![CDATA[emijel RC]]></description>
         <link>https://thegrid.ai/emijel-rc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 21:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:19:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/emijel-rc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Attended Competitions]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/emijel-rc/sieg-in-echterdingen/index.html</link>
             <guid isPermaLink="false">93cd7308-982e-4642-a2c3-2ed0fcf68ba6</guid>
             <pubDate>Sun, 24 Apr 2016 21:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAN Sand (Title)]]></title>
+            <description><![CDATA[<article><h1>MAN Sand (Title)</h1><p>MAN KAT 8x8x4 KATweazle - 28.2.2016 - Lechquelle Etappe 3 - Sand</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3849616003fba964db8e802f069a0e742387c077.jpg"></article>]]></description>
+            <link>https://thegrid.ai/emijel-rc/man-kat-8x8x4-katweazle-2822016-lechquelle-etappe-3/index.html</link>
+            <guid isPermaLink="false">e9145e60-3a96-4da5-a893-6117fd7ca88a</guid>
+            <pubDate>Tue, 23 Aug 2016 22:19:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sprung rein]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/emijel-rc/301a4cbf-57d3-4a51-8929-e2700f485dfd/index.html</link>
             <guid isPermaLink="false">301a4cbf-57d3-4a51-8929-e2700f485dfd</guid>
             <pubDate>Sat, 16 Apr 2016 22:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MAN Sand (Title)]]></title>
-            <description><![CDATA[<article><h1>MAN Sand (Title)</h1><p>MAN KAT 8x8x4 KATweazle - 28.2.2016 - Lechquelle Etappe 3 - Sand</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3849616003fba964db8e802f069a0e742387c077.jpg"></article>]]></description>
-            <link>https://thegrid.ai/emijel-rc/man-kat-8x8x4-katweazle-2822016-lechquelle-etappe-3/index.html</link>
-            <guid isPermaLink="false">e9145e60-3a96-4da5-a893-6117fd7ca88a</guid>
-            <pubDate>Sat, 16 Apr 2016 21:53:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Subaru (Source Title)]]></title>
