@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T22:35:58.677Z'
+datePublished: '2016-08-23T22:38:59.139Z'
 sourcePath: _posts/2016-04-16-katweazle-am-galgenbach-am-1642016.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Robert Regler
     url: ''
 via: {}
-dateModified: '2016-08-23T22:35:58.195Z'
+dateModified: '2016-08-23T22:38:58.568Z'
 title: Sprung rein
 publisher: {}
 description: >-
