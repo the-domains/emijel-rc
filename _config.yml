@@ -27,6 +27,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: LKW Treffen Pöhl 2016
+    id: 227ec2b0-3b96-45a1-81b8-60d0c1d2f4e8
+    type: content
 favicon: null
 title: emijel RC
 purpose: []
