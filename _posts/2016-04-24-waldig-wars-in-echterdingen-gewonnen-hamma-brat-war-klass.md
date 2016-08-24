@@ -1,25 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Competitions attended: '
-datePublished: '2016-04-24T21:12:55.142Z'
-dateModified: '2016-04-24T21:12:54.511Z'
-title: ''
-author: []
+datePublished: '2016-08-24T08:21:00.793Z'
+inFeed: false
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-24T08:19:05.436Z'
+title: ''
+publisher: {}
+description: 'Competitions attended:'
+inLanguage: null
+inNav: true
+via: {}
 starred: true
 sourcePath: _posts/2016-04-24-waldig-wars-in-echterdingen-gewonnen-hamma-brat-war-klass.md
-published: true
 url: sieg-in-echterdingen/index.html
-_type: Article
+_type: WebPage
 
 ---
 Competitions attended:
@@ -49,5 +45,5 @@ Competitions attended:
 * 2015.09.27 - GWS Scale Challenge Herbst 2015: emijel: Platz 1 in Klasse 1 (Platz 3 Gesamt von 10), Noah: Platz 9 (von 10)
 * 2015.10.03 - DTC 2015: team emijel (emijel + Noah): Platz 11 (Klasse 2, 29 Teams, 18 in Klasse 2)
 * 2016.02.20 - Winter Trial Löwenstein: wegen Blizzard von Rennleitung ohne Wertung abgebrochen
-* 2016.03.26 - Carfrika CarSamstag 2016: Noah Platz 4 von 30
 * 2016.04.23 - SOC Echterdingen: 1\. Platz gesamt (30 Fahrer), 1.Platz Klasse 1
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/712a05d2d8123ec87cb51b6cdcee3a257b2a2166.jpg)
