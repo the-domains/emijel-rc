@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-24T08:21:00.793Z'
+datePublished: '2016-08-24T08:41:52.255Z'
+sourcePath: _posts/2016-04-24-waldig-wars-in-echterdingen-gewonnen-hamma-brat-war-klass.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-24T08:19:05.436Z'
+via: {}
+dateModified: '2016-08-24T08:41:51.654Z'
 title: ''
 publisher: {}
 description: 'Competitions attended:'
 inLanguage: null
 inNav: true
-via: {}
-starred: true
-sourcePath: _posts/2016-04-24-waldig-wars-in-echterdingen-gewonnen-hamma-brat-war-klass.md
+starred: false
 url: sieg-in-echterdingen/index.html
 _type: WebPage
 
