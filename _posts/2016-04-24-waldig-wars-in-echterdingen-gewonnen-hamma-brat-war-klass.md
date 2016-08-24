@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T08:41:58.084Z'
+datePublished: '2016-08-24T08:43:09.585Z'
 sourcePath: _posts/2016-04-24-waldig-wars-in-echterdingen-gewonnen-hamma-brat-war-klass.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T08:41:57.479Z'
+dateModified: '2016-08-24T08:43:09.084Z'
 title: ''
 publisher: {}
 description: 'Competitions attended:'
@@ -46,4 +46,4 @@ Competitions attended:
 * 2015.10.03 - DTC 2015: team emijel (emijel + Noah): Platz 11 (Klasse 2, 29 Teams, 18 in Klasse 2)
 * 2016.02.20 - Winter Trial Löwenstein: wegen Blizzard von Rennleitung ohne Wertung abgebrochen
 * 2016.04.23 - SOC Echterdingen: 1\. Platz gesamt (30 Fahrer), 1.Platz Klasse 1
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/712a05d2d8123ec87cb51b6cdcee3a257b2a2166.jpg)
+![Sandbleche](https://s3-us-west-2.amazonaws.com/the-grid-img/p/712a05d2d8123ec87cb51b6cdcee3a257b2a2166.jpg)
