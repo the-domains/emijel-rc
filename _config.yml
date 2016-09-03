@@ -42,6 +42,9 @@ navigation:
   - name: 'Car: Subaru in Greenwood 13.2.2016'
     id: 20637bfe-ad1f-49a3-8f83-fb97fede81a3
     type: content
+  - name: MAN KAT 8x8x4
+    id: 65478fce-f0fe-4943-84fe-061ce2f009d8
+    type: content
 favicon: null
 title: emijel RC
 description: RC Artist
