@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-23T23:06:06.194Z'
+datePublished: '2016-09-01T11:18:50.447Z'
 sourcePath: _posts/2016-08-23-lkw-treffen-talsperre-pohl-19-2282016-sonntag-im-triebta.md
+inFeed: true
 hasPage: true
 author:
   - {}
 via: {}
-dateModified: '2016-08-23T23:06:05.499Z'
+dateModified: '2016-09-01T08:18:34.874Z'
 title: LKW Treffen Talsperre Pöhl 2016
 publisher: {}
 description: >-
@@ -13,7 +14,7 @@ description: >-
   ist das nur eine zweite Überschrift?
 starred: false
 url: lkw-treffen-talsperre-pohl-19-2282016-sonntag-im-triebta/index.html
-_type: Blurb
+_type: Article
 
 ---
 # LKW Treffen Talsperre Pöhl 2016
